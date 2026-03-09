@@ -133,8 +133,8 @@ python superstore_analysis.py
 
 **Soumya Malhotra**  
 MCA Graduate | Aspiring Data Analyst  
-📧 [Your Email]  
-🔗 [Your LinkedIn URL]
+📧 soumyamalhotra1720@gmail.com 
+🔗 https://www.linkedin.com/in/soumya-malhotra1720 
 
 ---
 
